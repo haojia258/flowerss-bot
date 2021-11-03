@@ -1,5 +1,5 @@
-bot_token:
-telegraph_token:
+bot_token:991155106：AAFR10ZJC52VAGe6QHd-gV_w0fWGYVV4FAo
+telegraph_token:10e942dc7f65aaa61eb610169e67a8a3cb1e574ce968b48ef6d990dae6ac
 telegraph_account:
 telegraph_author_name:
 telegraph_author_url:
@@ -8,11 +8,11 @@ update_interval: 10
 user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 
 mysql:
-  host:
-  port:
-  user:
-  password:
-  database:
+  host:127.0.0.1
+  port:3306
+  user:haojia
+  password:+-*/7890
+  database:flowerssbot
 
 telegram:
   endpoint:
@@ -27,3 +27,4 @@ sqlite:
   path: ./data.db
 
 allowed_users:
+  - 839677678
